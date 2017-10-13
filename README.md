@@ -3,4 +3,5 @@ A utility for opening songs in Spotify from a Spotify screenshot on Android usin
 
 # how to use
 ### Share a screenshot to the Pionear app 
+![alt text](https://i.imgur.com/NX5yPHR.png)
 ### Pionear will do the rest!
